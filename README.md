@@ -30,7 +30,7 @@ Data Preprocessing: The dataset is loaded and preprocessed to handle missing val
 
 Results
 
-Accuracy on training data: 0.9676912721561588 Accuracy on test data: 0.9668161434977578 Sample Prediction Input email: "WINNER!! As a valued network customer you have been selected to receivea £900 prize reward! To claim call 09061701461. Claim code KL341." Predicted category: Spam mail
+Accuracy on training data: 0.9676912721561588 Accuracy on test data: 0.9668161434977578 Sample Prediction Input email: "WINNER!! As a valued network customer you have been selected to receive a £900 prize reward! To claim call 09061701461. Claim code KL341." Predicted category: Spam mail
 
 Author
 
