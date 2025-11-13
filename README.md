@@ -34,6 +34,6 @@ Accuracy on training data: 0.9676912721561588 Accuracy on test data: 0.966816143
 
 Author
 
-Saurav Dhiani
+Vedant Pathak
 
 Feel free to customize and expand upon this template based on the specific details of your project.
